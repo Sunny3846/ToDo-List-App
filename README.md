@@ -30,6 +30,6 @@ To run this project locally:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/todo-list-app.git
+   git clone (https://github.com/Sunny3846/ToDo-List-App)
 2.Make sure u run this code on gitbash or vscode for best results.
 3.codesandbox is not recommended.
