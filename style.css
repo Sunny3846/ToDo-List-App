@@ -1,0 +1,30 @@
+.heading{
+    color:rgb(0, 0, 0);
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 550;
+}
+.container{
+    background-color: rgb(247, 255, 254);
+    padding:50px;
+    border-radius: 30px;
+}
+.inputContainer{
+    width:70%;
+    padding:6px;
+}
+.innerheading{
+    color:black;
+}
+.listitemContainer{
+    background-color: rgb(218, 249, 249);
+    padding:20px;
+    width:100%;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+.listitem{
+    list-style-type: none;
+}
+.lineThroughText{
+    text-decoration: line-through;
+}
